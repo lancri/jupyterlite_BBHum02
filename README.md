@@ -6,7 +6,7 @@ JupyterLite deployed as a static site to GitHub Pages, for demo purposes.
 
 ## ✨ Try it in your browser ✨
 
-➡️ **https://jupyterlite.github.io/demo**
+➡️ **[https://jupyterlite.github.io/demo](https://jupyter.org/try-jupyter/lab/index.html?path=BBHum02%2FAL1%2FAL1.ipynb)**
 
 ![github-pages](https://jupyter.org/try-jupyter/lab/index.html?path=BBHum02%2FAL1%2FAL1.ipynb)
 
